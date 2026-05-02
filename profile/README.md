@@ -1,4 +1,4 @@
-# AboutUs
+# About Us
 
 At NovaTech, we’re driven by innovation, precision, and the pursuit of cutting-edge solutions. Our mission is to push boundaries in technology and deliver powerful, reliable tools that elevate digital experiences.
 
